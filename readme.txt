@@ -7,6 +7,8 @@
 
 動作確認：Windows 10　Visual Studio 2015 community
 
+開発時間と人数: 一か月前 四日　一人
+
 開発言語：C++  directx 11 
 
 外部ライブラリ：PhysX SDK
