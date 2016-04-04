@@ -37,4 +37,4 @@ DXのsamples、dx11のフレームワーク、アプリケーションとシェ�
 PhysXのSnippets、PhysXの初期化、シミュレーションに参考。
 
 ───
-このプロジェクトはhttps://github.com/duoshengyu/Dx11ANDPhysxにも見えます。
+このプロジェクトはhttps://github.com/duoshengyu/Dx11ANDPhysx にも見えます。
