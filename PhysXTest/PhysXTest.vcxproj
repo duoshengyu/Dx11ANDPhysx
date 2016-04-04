@@ -77,6 +77,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)include;$(SolutionDir)\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)Lib/x86;$(SolutionDir)\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>

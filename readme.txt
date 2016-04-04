@@ -13,7 +13,7 @@
 
 外部ライブラリ：PhysX SDK
 
-必要な環境：DirectX SDK をインストール済み
+必要な環境：DirectX SDK をインストール済み、x64のOS
 
 実行方法："Dx11ANDPysx.sln"　Visual Studio 2015で開けたら、F5を押す。
 
